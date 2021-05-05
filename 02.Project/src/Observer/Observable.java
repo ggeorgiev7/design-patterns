@@ -1,8 +1,8 @@
-package TheObserverBoy;
-import State.TheState;
+package Observer;
+
 public interface Observable {
 	public void subscribe(Observer observer);
 	public void unsubscribe(Observer observer);
 	public void notifyObservers();
-	public TheState getUpdate();
+	public String getUpdate();
 }
