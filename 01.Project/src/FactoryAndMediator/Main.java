@@ -26,9 +26,9 @@ public class Main {
 		person4.newMessage("Yes, of cours");
 		
 		//////////////////////////////////////////////
-		/*person1.sendMessage("My name is Gosho!");
-		secondUser.sendMessage("Hi Gosho!");
-		thirdUser.sendMessage("Hi Gosho!");
+		/*person1.sendMessage("My name is Georgi!");
+		secondUser.sendMessage("Hi Georgi!");
+		thirdUser.sendMessage("Hi Georgi!");
 
 		anotherUser.sendMessage("Hi!");
 		
